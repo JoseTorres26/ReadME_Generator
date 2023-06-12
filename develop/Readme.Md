@@ -1,12 +1,11 @@
-# asd
+# Readme
 
+https://www.loom.com/share/49a399361cdc4f78a964748b07a12958
 ## Description
 
-dasd
+quick little readme to demonstrate generator
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,15 +14,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-asdasd
+copy code and install dependecies!
 
 ## Usage
 
- dasd 
+ answer all the questions 
 
 ## License
 
-asdas
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -31,14 +30,14 @@ asdas
 
 ## Badges
 
-asdas
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Questions
 
-dasdas
+JoseTorres26
 
-ddasdasd
+andytorres25995@gmail.com
 
 ## Tests
 

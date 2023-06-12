@@ -11,19 +11,9 @@ inquirer
     type:'input'
 },
 {
-    name:'description',
-    message:'do you want to add a description?',
-    type:'confirm'
-},
-{
     name:'desc',
     message:'add a description',
     type:'input'
-},
-{
-    name:'intructions',
-    message:'do you want to add installation instructions?',
-    type:'confirm'
 },
 {
     name:'instruct',
@@ -31,19 +21,9 @@ inquirer
     type:'input'
 },
 {
-    name:'usage',
-    message:'do you want to include a how to use section?',
-    type:'confirm'
-},
-{
     name:'use',
     message:'add a how to',
     type:'input'
-},
-{
-    name:'contribute',
-    message:'do you want to add contribution guidelines?',
-    type:'confirm'
 },
 {
     name:'contribution',
@@ -51,24 +31,14 @@ inquirer
     type:'input'
 },
 {
-    name:'testing',
-    message:'did you use any testing?',
-    type:'confirm'
-},
-{
     name:'test',
     message:'add any tests',
     type:'input'
 },
 {
-    name:'license',
-    message:'want to include any license?',
-    type:'confirm'
-},
-{
     type: 'list',
     name:'licenses',
-    message:'add a licenses',
+    message:'add a license',
     choices: ['Apache','MIT', 'Mozilla','Perl','WTFPL']
 },
 {
